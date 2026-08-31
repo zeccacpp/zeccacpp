@@ -94,11 +94,11 @@ Launch your product and get started.
 
 </div>
 
-<br>
+<div align="center">
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ## FiveM External
 
@@ -112,7 +112,7 @@ Real-time module suite for FiveM.
 [![Purchase](https://img.shields.io/badge/PURCHASE_ON_DISCORD-9E5B6A?style=for-the-badge)](#discord)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ## Woofer
 
@@ -128,7 +128,7 @@ Advanced hardware identifier management.
 </tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ## Executor
 
@@ -141,7 +141,7 @@ Lua execution environment with an in-game interface.
 [![Purchase](https://img.shields.io/badge/PURCHASE_ON_DISCORD-9E5B6A?style=for-the-badge)](#discord)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ## Spoofer
 
@@ -157,7 +157,7 @@ Advanced system hardware configuration tools.
 </tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ## CS2 External
 
@@ -171,7 +171,7 @@ External tools for Counter-Strike 2.
 [![Purchase](https://img.shields.io/badge/PURCHASE_ON_DISCORD-9E5B6A?style=for-the-badge)](#discord)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 ## Resolver
 
@@ -186,6 +186,8 @@ Network information and connection analysis tools.
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
