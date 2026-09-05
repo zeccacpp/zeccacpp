@@ -14,12 +14,14 @@ and software with attention to detail.
 
 <br>
 
-<a href="https://discord.com/users/zecca.cpp">
-  <img src="https://img.shields.io/badge/Discord-@zecca-080608?style=flat-square&logo=discord&logoColor=F08BAE&labelColor=24101A&color:D9688C" />
+<a href="https://zecca.is-a.dev">
+  <img src="https://img.shields.io/badge/Portfolio-24101A?style=for-the-badge&logo=googlechrome&logoColor=F08BAE" />
 </a>
-
+<a href="https://discord.com/users/611592045194117151">
+  <img src="https://img.shields.io/badge/Discord-24101A?style=for-the-badge&logo=discord&logoColor=F08BAE" />
+</a>
 <a href="https://github.com/zeccacpp">
-  <img src="https://img.shields.io/badge/GitHub-@zeccacpp-080608?style=flat-square&logo=github&logoColor=F08BAE&labelColor=24101A&color:D9688C" />
+  <img src="https://img.shields.io/badge/GitHub-24101A?style=for-the-badge&logo=github&logoColor=F08BAE" />
 </a>
 
 </div>
@@ -221,12 +223,14 @@ Reach out directly through any of these platforms.
 
 <br>
 
-<a href="https://discord.com/users/zecca.cpp">
-  <img src="https://img.shields.io/badge/Discord-@zecca-080608?style=flat-square&logo=discord&logoColor=F08BAE&labelColor=24101A&color=D9688C" />
+<a href="https://zecca.is-a.dev">
+  <img src="https://img.shields.io/badge/Portfolio-24101A?style=for-the-badge&logo=googlechrome&logoColor=F08BAE" />
 </a>
-
+<a href="https://discord.com/users/611592045194117151">
+  <img src="https://img.shields.io/badge/Discord-24101A?style=for-the-badge&logo=discord&logoColor=F08BAE" />
+</a>
 <a href="https://github.com/zeccacpp">
-  <img src="https://img.shields.io/badge/GitHub-github.com%2Fzeccacpp-080608?style=flat-square&logo=github&logoColor=F08BAE&labelColor=24101A&color=D9688C" />
+  <img src="https://img.shields.io/badge/GitHub-24101A?style=for-the-badge&logo=github&logoColor=F08BAE" />
 </a>
 
 <br><br>
