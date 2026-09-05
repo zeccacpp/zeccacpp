@@ -14,15 +14,9 @@ and software with attention to detail.
 
 <br>
 
-<a href="https://zecca.is-a.dev">
-  <img src="https://img.shields.io/badge/Portfolio-24101A?style=for-the-badge&logo=googlechrome&logoColor=F08BAE" />
-</a>
-<a href="https://discord.com/users/611592045194117151">
-  <img src="https://img.shields.io/badge/Discord-24101A?style=for-the-badge&logo=discord&logoColor=F08BAE" />
-</a>
-<a href="https://github.com/zeccacpp">
-  <img src="https://img.shields.io/badge/GitHub-24101A?style=for-the-badge&logo=github&logoColor=F08BAE" />
-</a>
+<p align="center">
+  <a href="https://zecca.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-24101A?style=for-the-badge&logo=googlechrome&logoColor=F08BAE" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/611592045194117151"><img src="https://img.shields.io/badge/Discord-24101A?style=for-the-badge&logo=discord&logoColor=F08BAE" /></a>&nbsp;&nbsp;<a href="https://github.com/zeccacpp"><img src="https://img.shields.io/badge/GitHub-24101A?style=for-the-badge&logo=github&logoColor=F08BAE" /></a>
+</p>
 
 </div>
 
@@ -223,15 +217,9 @@ Reach out directly through any of these platforms.
 
 <br>
 
-<a href="https://zecca.is-a.dev">
-  <img src="https://img.shields.io/badge/Portfolio-24101A?style=for-the-badge&logo=googlechrome&logoColor=F08BAE" />
-</a>
-<a href="https://discord.com/users/611592045194117151">
-  <img src="https://img.shields.io/badge/Discord-24101A?style=for-the-badge&logo=discord&logoColor=F08BAE" />
-</a>
-<a href="https://github.com/zeccacpp">
-  <img src="https://img.shields.io/badge/GitHub-24101A?style=for-the-badge&logo=github&logoColor=F08BAE" />
-</a>
+<p align="center">
+  <a href="https://zecca.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-24101A?style=for-the-badge&logo=googlechrome&logoColor=F08BAE" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/611592045194117151"><img src="https://img.shields.io/badge/Discord-24101A?style=for-the-badge&logo=discord&logoColor=F08BAE" /></a>&nbsp;&nbsp;<a href="https://github.com/zeccacpp"><img src="https://img.shields.io/badge/GitHub-24101A?style=for-the-badge&logo=github&logoColor=F08BAE" /></a>
+</p>
 
 <br><br>
 
